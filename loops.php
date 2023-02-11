@@ -1,2 +1,4 @@
-echo "test"
-echo "mantap jiwa"
+<?php
+
+$name = "galih";
+var_dump($name);
