@@ -1,0 +1,5 @@
+<?php
+
+// visibility
+// function overriding
+  // 
